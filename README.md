@@ -1,10 +1,5 @@
 # NOIZE! v1.0
 
-push_mangl!
-modified version of the script mangl
-by @justmat
-to work with a push 1 controller
-
 NOIZE! v1.0
 Noise Synth
 by deeg
